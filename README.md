@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Computer Science student with a deep passion for coding and exploring the fascinating world of artificial intelligence. My journey in the realm of technology is just beginning, and I'm excited to share my progress and projects with you.
+I'm a Computer Science student with a deep passion for coding and AI.
 
 ## About Me
 - 🎓 Currently pursuing a degree in Computer Science.
